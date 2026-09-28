@@ -1,0 +1,20 @@
+# Limpieza de datos — Resumen
+
+## (a) Filas del dataset original
+
+El dataset original tenía **6 filas** (6 estudiantes).
+
+## (b) Filas después de la limpieza
+
+Después de la limpieza quedaron **4 filas**.
+
+Se eliminaron 2 filas porque tenían la nota vacía.
+
+## (c) Columnas con valores faltantes y cómo se trataron
+
+- **nota**: tenía 2 valores faltantes. Se trataron por **eliminación**, borrando esas filas.
+- **asistencia_pct**: tenía 2 valores faltantes. Se trataron por **imputación**, reemplazándolos con el promedio de la columna.
+
+## Conclusión
+
+La limpieza dejó el dataset sin valores faltantes, listo para calcular promedios por curso.

@@ -1,0 +1,4 @@
+
+
+
+"programacion estadistica/dato.xlsx"
