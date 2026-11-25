@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza de Armas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9785,
+          -13.517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Sacsayhuaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9817,
+          -13.5075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Qorikancha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9761,
+          -13.5195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mercado San Pedro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9819,
+          -13.5202
+        ]
+      }
+    }
+  ]
+}
