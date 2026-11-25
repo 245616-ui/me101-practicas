@@ -1,0 +1,11 @@
+# Resumen Geoespacial — Tema 12
+
+## a) Lugares elegidos y motivo
+Elegí cuatro puntos reales en la ciudad de Cusco: **UNSAAC (Perayoc)**, **Real Plaza Cusco**, **Plaza San Sebastián** y **Pasaje Breña (San Sebastián)**. Los seleccioné porque representan mi trayecto cotidiano desde la universidad hasta mi domicilio en San Sebastián, permitiéndome medir distancias y rutas reales que recorro a diario.
+
+## b) Distancias calculadas (Haversine)
+* **Par más cercano:** Plaza San Sebastián y Pasaje Breña (San Sebastián), con una distancia de **0.30 km**.
+* **Par más lejano:** UNSAAC (Perayoc) y Pasaje Breña (San Sebastián), con una distancia de **3.23 km**.
+
+## c) Reflexión sobre CRS y proyección Mercator
+Las coordenadas utilizadas corresponden al sistema geográfico **EPSG:4326 (WGS 84)**, el cual representa ubicaciones en grados decimales (latitud y longitud) sin proyectar y exige el orden `[longitud, latitud]` en GeoJSON. Aunque las proyecciones planas como Mercator distorsionan el área en zonas alejadas del ecuador, siguen siendo fundamentales en mapas web porque conservan fielmente los ángulos y formas locales de las calles para una navegación precisa.

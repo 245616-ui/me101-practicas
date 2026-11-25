@@ -4,52 +4,52 @@
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Plaza de Armas"
+        "nombre": "UNSAAC (Perayoc)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.9785,
-          -13.517
+          -71.9585,
+          -13.5229
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Sacsayhuaman"
+        "nombre": "Real Plaza Cusco"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.9817,
-          -13.5075
+          -71.9468,
+          -13.5262
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Qorikancha"
+        "nombre": "Plaza San Sebastián"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.9761,
-          -13.5195
+          -71.9332,
+          -13.5326
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nombre": "Mercado San Pedro"
+        "nombre": "Pasaje Breña (San Sebastián)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.9819,
-          -13.5202
+          -71.931,
+          -13.5342
         ]
       }
     }
